@@ -1,0 +1,10 @@
+nav a.active {
+  background-color: rgba(149, 99, 173, 0.5);
+    text-decoration: underline;
+}
+
+.nav-links {
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  border-radius: 0.5rem;
+}
